@@ -1,0 +1,24 @@
+[
+    {
+      "id": "001",
+      "title": "I’m Not Here to Spend",
+      "fanPersona": "flirty but broke",
+      "objective": "Chatter must warm up the fan and push for a soft upsell",
+      "fanIntro": "Not gonna lie… I usually just talk. I’m not one of *those* spendy fans lol 😅"
+    },
+    {
+      "id": "002",
+      "title": "Make Me Blush",
+      "fanPersona": "cocky and curious",
+      "objective": "Chatter must escalate into dirty talk while staying compliant",
+      "fanIntro": "So what exactly would I be paying for? 👀"
+    },
+    {
+      "id": "003",
+      "title": "Not In the Mood",
+      "fanPersona": "disinterested or ghosty",
+      "objective": "Chatter must revive a dead chat and re-hook the fan",
+      "fanIntro": "Hey."
+    }
+  ]
+  
